@@ -24,7 +24,7 @@ RETURNS: 1
 #+END_EXPORT
 
 * Prelude
-screwYouMrRicardoScript, colloquially known as ricardoScript, is a [[https://github.com][free and open source]] deterministic functional script programming language. This means that the same code will always produce the same output. No more "It works on my machine" for you or anyone else. It follows the KISS (Keep It Simple, Silly) principle and its primary implementation is less than 2.5K lines of code with a consistent [[https://en.wikipedia.org/wiki/Indentation_style][brace style]]. ricardoScript is documented using example based documentation, as it is especially well suited to programming.
+screwYouMrRicardoScript, colloquially known as ricardoScript, is a [[https://github.com/FracturedToenail/ricardoScript][free and open source]] deterministic functional script programming language. This means that the same code will always produce the same output. No more "It works on my machine" for you or anyone else. It follows the KISS (Keep It Simple, Silly) principle and its primary implementation is less than 2.5K lines of code with a consistent [[https://en.wikipedia.org/wiki/Indentation_style][brace style]]. ricardoScript is documented using example based documentation, as it is especially well suited to programming.
 
 * Examples
  #+begin_src ricardoScript
