@@ -1,13 +1,13 @@
 #+title: FracturedToenail info
 
-Greetings travellers. I am FracturedToenail.
-
-I use emacs btw
+Greetings travellers. I am FracturedToenail. \\
+\\
+I use emacs btw \\
 
 * links
-[[https://github.com/FracturedToenail/][My GitHub]]
-[[https://www.youtube.com/channel/UC7sZdT5E8aS5am5ApjOcsJQ][My YouTube]]
+[[https://github.com/FracturedToenail/][My GitHub]] \\
+[[https://www.youtube.com/channel/UC7sZdT5E8aS5am5ApjOcsJQ][My YouTube]] \\
 
 * things that i made that i think have value (all free/open source)
-[[https://github.com/FracturedToenail/ricardoScript][ricardoScript]], a functional, deterministic, simple scripting language.
-[[https://github.com/FracturedToenail/ScrollNt][ScrollNt]], a browser extension to stop people from doomscrolling on youtube
+[[https://github.com/FracturedToenail/ricardoScript][ricardoScript]], a functional, deterministic, simple scripting language. \\
+[[https://github.com/FracturedToenail/ScrollNt][ScrollNt]], a browser extension to stop people from doomscrolling on youtube \\
